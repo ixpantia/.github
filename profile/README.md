@@ -23,7 +23,7 @@ distribute.
 Ready to make an impact? Let's start building your organization's future!
 
 <a href="https://meetings.hubspot.com/camila-amatller">
-<img src="https://github.com/user-attachments/assets/8321bf05-5187-424c-bc01-e7aa74de4a6b" width="25%" />
+<img src="https://github.com/user-attachments/assets/8321bf05-5187-424c-bc01-e7aa74de4a6b" width="15%" />
 </a>
 
 
